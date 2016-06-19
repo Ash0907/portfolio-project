@@ -1,0 +1,70 @@
+
+body{
+	background-color: #FFFFFF;
+	
+}
+.navbar-default{
+	background-color: #3B5998;
+	
+}
+.customBar{
+	color:white;
+	font-weight: bold;
+	font-size: 1em;
+	font-family: arial;
+}
+
+.jumbotron{
+	background-color: #F6F7F9;
+}
+.myPic{
+	border-style: double;
+	border-radius: 50%;
+	border-color: #3B5998;
+	border-width: 7px;
+}
+.customHeader{
+	color: #3B5998;
+}
+
+#navbar-toggle-cbox:checked ~ .collapse {
+    display: block;
+}
+
+#navbar-toggle-cbox {
+  display:none
+}
+.customHeader1{
+	color: #3B5998;
+	font-weight: bold;
+	
+	
+}
+#thumbnailBorder{
+	border: dashed;
+	padding-top: 20px;
+	color: #3B5998;
+	border-width: 5px;
+}
+#footerBG{
+	background-color: #3B5998;
+	margin-top: 20px;
+
+}
+
+.spaced{
+	margin-top: 10px;
+}
+.boxHeight{
+	height: 400px;
+}
+#borderRight{
+	border-right: dashed;
+	border-right-color: white;
+}
+.linkMargin{
+	margin:5px;
+}
+#pageTop{
+	margin-top: 80px;
+}
